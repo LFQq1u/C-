@@ -1,0 +1,3 @@
+H:\期末作业\学生信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\期末作业\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\期末作业\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
